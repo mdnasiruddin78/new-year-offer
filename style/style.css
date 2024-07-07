@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* banner style start */
+.banner-container {
+    width: 1320px;
+    /* border: 2px solid red; */
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(../images/Banner\ Image.png);
+}
+.banner-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 600px;
+    align-items: center;
+}
+.banner-content p, h1{
+    color: white; 
+}
+.banner-content p{
+    font-size: 32px;
+    font-weight: 400px;
+    margin-bottom: 16px;
+}
+.banner-content h1{
+    font-size: 72px;
+    font-weight: 900px;
+    text-align: center;
+}
