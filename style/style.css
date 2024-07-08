@@ -174,7 +174,7 @@
 .banner-container5{
     width: 1320px;
     height: 463px;
-    border: 5px solid red;
+    /* border: 5px solid red; */
     margin-top: 120px;
     margin: 0 auto;
 }
@@ -254,3 +254,54 @@
 
 }
 /* new best offer end*/
+/* what is functional start */
+#banner-container6{
+    width: 1320px;
+    height: 986.07px;
+    border: 5px solid red;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+#banner-content6{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 986.07px;
+
+}
+#banner-content6 #what{
+    height: 260px;
+    width: 1068px;
+}
+#banner-content6 #what h1{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(7, 2, 17);
+}
+#banner-content6 #what h2{
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+    color:
+}
+#banner-content6 #what h2 #span{
+    color: red;
+}
+#banner-content6 #what p{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: rgba(7, 2, 17, 0.6);
+}
+#banner-content6 #image1 img{
+    text-align: left;
+}
+#banner-content6 #image2 img{
+
+}
+#banner-content6 #image3 img{
+
+}
+/* what is functional end*/
