@@ -170,3 +170,87 @@
     color: red;
 }
 /* new park hotel end*/
+/* new best offer start*/
+.banner-container5{
+    width: 1320px;
+    height: 463px;
+    border: 5px solid red;
+    margin-top: 120px;
+    margin: 0 auto;
+}
+.banner-content5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 463px;
+    padding: 0px;
+}
+.banner-content5 .new{
+    margin-right: 70px;
+}
+.banner-content5 .new h1{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    text-align: left;
+    color: rgb(255, 0, 0);
+    margin-bottom: 16px;
+}
+.banner-content5 .new h2{
+    font-size: 48px;
+    font-weight: 900;
+    text-align: left;
+    color: rgb(7, 2, 17);
+    text-transform: capitalize;
+}
+.banner-content5 .new p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    text-align: left;
+    color: rgba(7, 2, 17, 0.6);
+    width: 393px;
+    height: 128px;
+    /* margin-right: 119.08px; */
+    margin-top: 22px;
+}
+.banner-content5 .img{
+    /* width: 200px;
+    height: 200px; */
+
+}
+.banner-content5 .image{
+    /* width: 463px;
+    height: 463px; */
+    border: 10px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-right: 118px;
+}
+.amet .dolor .happy{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 140px;
+    text-align: left;
+}
+.banner-content5 .amet .dolor h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+    margin-bottom: 16px;
+}
+.banner-content5 .amet .dolor p{
+    font-size: 20px;
+    font-weight: 400;
+    text-align: ;
+    color: rgba(7, 2, 17, 0.6);
+    margin-bottom: 43px;
+}
+.banner-content5 .happy img{
+
+}
+/* new best offer end*/
