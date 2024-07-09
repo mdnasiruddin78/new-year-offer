@@ -215,19 +215,10 @@
     /* margin-right: 119.08px; */
     margin-top: 22px;
 }
-.banner-content5 .img{
-    /* width: 200px;
-    height: 200px; */
-
-}
 .banner-content5 .image{
-    /* width: 463px;
-    height: 463px; */
     border: 10px solid rgb(255, 0, 0);
     border-radius: 50%;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+    padding: 20px;
     margin-right: 118px;
 }
 .amet .dolor .happy{
@@ -268,6 +259,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin: 0 auto;
 }
 #banner-content6 #what{
     height: 260px;
@@ -283,7 +275,7 @@
     font-size: 72px;
     font-weight: 900;
     text-align: center;
-    color:
+    margin-bottom: 28px;
 }
 #banner-content6 #what h2 #span{
     color: red;
@@ -296,16 +288,22 @@
 }
 #banner-content6 #image1 img{
     width: 1320px;
-    height: 229px;
+    height: 986.07pxpx;
     background-color: red;
-    /* position: absolute; */
+    position: absolute;
     top: 77%;
+    left: 0;
 }
 #banner-content6 #image2 img{
-
+    width: 796.46px;
+    height: 662.07px;
+    position: relative;
+    z-index: 1;
+    left: -200px;
+    margin-top: 64px;
 }
 #banner-content6 #image3 img{
-
+    
 }
 /* what is functional end*/
 /* footer start */
